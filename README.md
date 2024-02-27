@@ -6,10 +6,10 @@ A recipe and cuisine finder website created using React and Spoonacular API.
 https://whattocookk.netlify.app
 
 ## Screenshots
-
+![Image of website](https://github.com/DeadpoolX7/WhatToCook/blob/main/Screenshot%20(1).png)
 
 ## Videos
-
+[![Video of website](https://github.com/DeadpoolX7/WhatToCook/blob/main/Screenshot%20(1).png)](https://github.com/DeadpoolX7/WhatToCook/blob/main/VID_20240227150157.mp4)
 
 ## Installation
 
