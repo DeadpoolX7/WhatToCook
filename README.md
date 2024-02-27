@@ -1,8 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# WhatToCook
 
-Currently, two official plugins are available:
+A recipe and cuisine finder website created using React and Spoonacular API.
+## Link:-
+https://whattocookk.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+
+## Videos
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone "https://github.com/DeadpoolX7/WhatToCook.git"
+
+```
+### Navigate to the directory
+```
+cd my-react-app
+```    
+## Install all dependencies
+```
+npm install
+```
+
+## Set-up environment varaibles
+
+Create a .env file in the root directory of your project and paste your spoonacular api key stored in a variable with prefix:  VITE_
+
+## Start the  Server
+  ```
+  npm run dev
+```
+
+### Thank you 😊

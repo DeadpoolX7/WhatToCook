@@ -68,5 +68,3 @@ function Form() {
 }
 
 export default Form;
-//cocexit952@ricorit.com
-// 8322f75a675b48f6857cf1f56acfcf2c
