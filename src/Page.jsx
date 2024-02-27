@@ -20,7 +20,7 @@ function Form() {
       .then(response => {
         setSubmitvalue(response.data.slice(0, 10));
         setLoading(false);
-        console.log(submitvalue)
+
 
       })
       .catch(error => {
